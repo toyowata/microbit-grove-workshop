@@ -2,7 +2,7 @@
 
 このドキュメントは、micro:bitとSeeed Grove Inventor Kit付属のセンサーを使ったワークショップの説明資料です。以下の手順を読んで、プログラムを作成してみましょう。
 
-## 機材
+## 使用する機材
 
 * micro:bit 本体
 * Seeed Grove Inventor Kit
@@ -15,7 +15,7 @@
 ### プログラム
 
 <img width="912" src="./pics/1_control_light.png">
-<!-- ![program](./pics/1_control_light.png) -->
+<!-- ![program](./pics/1_control_light.png) -->
 
 ## 2. ライトセンサーを使用する
 
