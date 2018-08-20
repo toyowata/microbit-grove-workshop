@@ -14,7 +14,7 @@
 
 ### プログラム
 
-<img width="912" src="./pics/1_control_light.png">
+<img width="456" src="./pics/1_control_light.png">
 <!-- ![program](./pics/1_control_light.png) -->
 
 ## 2. ライトセンサーを使用する
@@ -23,7 +23,7 @@
 * Grove - Light Sensor（P0/P14に接続）
 
 ### プログラム
-<img width="1076" src="./pics/2_sunshine.png">
+<img width="538" src="./pics/2_sunshine.png">
 <!-- ![program](./pics/2_sunshine.png) -->
 
 ## 3. アナログ入力を扱う
@@ -32,7 +32,7 @@
 * Grove - Rotary Angle Sensor(P)（P0/P14に接続）
 
 ### プログラム
-<img width="1058" src="./pics/3_LED_Bar_Control.png">
+<img width="529" src="./pics/3_LED_Bar_Control.png">
 <!-- ![program](./pics/3_LED_Bar_Control.png) -->
 
 ## 4. スピーカーで音を出す
@@ -41,7 +41,7 @@
 * Grove - Speaker（P0/P14に接続）
 
 ### プログラム
-<img width="982" src="./pics/4_Music_Player.png">
+<img width="491" src="./pics/4_Music_Player.png">
 <!-- ![program](./pics/4_Music_Player.png) -->
 
 ## 5. ジェスチャーセンサーを使う
@@ -50,7 +50,7 @@
 * Grove - Gesture（I2Cに接続）
 
 ### プログラム
-<img width="890" src="./pics/5_Gesture_Recognition.png">
+<img width="445" src="./pics/5_Gesture_Recognition.png">
 <!-- ![program](./pics/5_Gesture_Recognition.png) -->
 
 ## 6. 超音波センサーで距離を測る
@@ -59,7 +59,7 @@
 * Grove - Ultrasonic Ranger（P0/P14に接続）
 
 ### プログラム
-<img width="1394" src="./pics/6_Smart_Guard.png">
+<img width="697" src="./pics/6_Smart_Guard.png">
 <!-- ![program](./pics/6_Smart_Guard.png) -->
 
 ## 7. 超音波センサーで測定した距離を表示する
@@ -71,7 +71,7 @@
 * Grove - 4-Digit Display（P1/P15に接続）
 
 ### プログラム
-<img width="1354" src="./pics/8_Ultrasonic_Meter.png">
+<img width="677" src="./pics/8_Ultrasonic_Meter.png">
 <!-- ![program](./pics/8_Ultrasonic_Meter.png) -->
 
 ## 8. LEDテープ（NeoPixel）を使用する
@@ -83,7 +83,7 @@
 * Grove - WS2812b NeoPixel LEDテープ（P1/P15に接続）
 
 ### プログラム
-<img width="1544" src="./pics/9_Rainbow.png">
+<img width="772" src="./pics/9_Rainbow.png">
 <!-- ![program](./pics/9_Rainbow.png) -->
 
 ## 9. LEDテープにアナログ値を表示する
@@ -93,7 +93,7 @@
 * Grove - WS2812b NeoPixel LEDテープ（P1/P15に接続）
 
 ### プログラム
-<img width="1546" src="./pics/10_Color_bar.png">
+<img width="773" src="./pics/10_Color_bar.png">
 <!-- ![program](./pics/10_Color_bar.png) -->
 
 ## 10. センサーを組み合わせてプログラムを作る
