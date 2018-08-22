@@ -14,7 +14,9 @@
 
 ### プログラム
 
-<img width="456" src="./pics/1_control_light.png" href="https://makecode.microbit.org/_MkrRTPPrhira">
+<img width="456" src="./pics/1_control_light.png">
+
+[プログラムへのリンク](https://makecode.microbit.org/_MkrRTPPrhira)
 
 ## 2. ライトセンサーを使用する
 
@@ -23,6 +25,8 @@
 
 ### プログラム
 <img width="538" src="./pics/2_sunshine.png">
+
+[プログラムへのリンク](https://makecode.microbit.org/_JmEg2PauwY9j)
 
 ## 3. アナログ入力を扱う
 
