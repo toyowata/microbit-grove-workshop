@@ -36,6 +36,8 @@
 ### プログラム
 <img width="529" src="./pics/3_LED_Bar_Control.png">
 
+[プログラムへのリンク](https://makecode.microbit.org/_LR2czf8pbgUK)
+
 ## 4. スピーカーで音を出す
 
 ### 使用する部品
@@ -43,6 +45,8 @@
 
 ### プログラム
 <img width="491" src="./pics/4_Music_Player.png">
+
+[プログラムへのリンク](https://makecode.microbit.org/_bMxXEuefL56W)
 
 ## 5. ジェスチャーセンサーを使う
 
@@ -54,17 +58,9 @@
 ### プログラム
 <img width="445" src="./pics/5_Gesture_Recognition.png">
 
+[プログラムへのリンク](https://makecode.microbit.org/_Xc3a290uECbv)
+
 ## 6. 超音波センサーで距離を測る
-
-```高度なブロック``` - ```パッケージを追加する``` から、```grove```で検索して表示されるパッケージを追加する。
-
-### 使用する部品
-* Grove - Ultrasonic Ranger（P0/P14に接続）
-
-### プログラム
-<img width="697" src="./pics/6_Smart_Guard.png">
-
-## 7. 超音波センサーで測定した距離を表示する
 
 ```高度なブロック``` - ```パッケージを追加する``` から、```grove```で検索して表示されるパッケージを追加する。
 
@@ -73,9 +69,12 @@
 * Grove - 4-Digit Display（P1/P15に接続）
 
 ### プログラム
-<img width="677" src="./pics/8_Ultrasonic_Meter.png">
+<img width="767" src="./pics/6_Ultrasonic.png">
 
-## 8. LEDテープ（NeoPixel）を使用する
+[プログラムへのリンク](https://makecode.microbit.org/_9hHLrz4RR7u6)
+
+
+## 7. LEDテープ（NeoPixel）を使用する
 
 ```高度なブロック``` - ```パッケージを追加する``` から、```neopixel```パッケージを追加する。
 
@@ -86,7 +85,9 @@
 ### プログラム
 <img width="772" src="./pics/9_Rainbow.png">
 
-## 9. LEDテープにアナログ値を表示する
+[プログラムへのリンク](https://makecode.microbit.org/_3fV9c8KLM4bx)
+
+## 8. LEDテープにアナログ値を表示する
 
 ```高度なブロック``` - ```パッケージを追加する``` から、```neopixel```パッケージを追加する。
 
@@ -97,7 +98,9 @@
 ### プログラム
 <img width="773" src="./pics/10_Color_bar.png">
 
-## 10. センサーを組み合わせてプログラムを作る
+[プログラムへのリンク](https://makecode.microbit.org/_FbvH1Uf7weXY)
+
+## 9. センサーを組み合わせてプログラムを作る
 
 ### 使用する部品
 * 自由に選んで下さい
