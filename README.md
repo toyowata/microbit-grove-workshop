@@ -1,6 +1,7 @@
 # micro:bit ワークショップ（中級編） - Grove Inventor Kitを使用したプログラミング
 
 このドキュメントは、micro:bitとSeeed Grove Inventor Kit付属のセンサーを使ったワークショップの説明資料です。以下の手順を読んで、プログラムを作成してみましょう。
+micro:bitの基本的な使い方は、[ここ](https://microbit.org/ja/guide/quick/)をご覧ください。
 
 ## 使用する機材
 
