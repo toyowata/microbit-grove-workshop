@@ -15,9 +15,9 @@ micro:bitの基本的な使い方は、[ここ](https://microbit.org/ja/guide/qu
 
 ### プログラム
 
-<img width="456" src="./pics/1_control_light.png">
+<img width="428" src="./pics/1_control_light.png">
 
-[プログラムへのリンク](https://makecode.microbit.org/_MkrRTPPrhira)
+[プログラムへのリンク](https://makecode.microbit.org/v1/_MkrRTPPrhira)
 
 ## 2. ライトセンサーを使用する
 
@@ -27,7 +27,7 @@ micro:bitの基本的な使い方は、[ここ](https://microbit.org/ja/guide/qu
 ### プログラム
 <img width="538" src="./pics/2_sunshine.png">
 
-[プログラムへのリンク](https://makecode.microbit.org/_JmEg2PauwY9j)
+[プログラムへのリンク](https://makecode.microbit.org/v1/_JmEg2PauwY9j)
 
 ## 3. アナログ入力を扱う
 
@@ -37,7 +37,7 @@ micro:bitの基本的な使い方は、[ここ](https://microbit.org/ja/guide/qu
 ### プログラム
 <img width="529" src="./pics/3_LED_Bar_Control.png">
 
-[プログラムへのリンク](https://makecode.microbit.org/_LR2czf8pbgUK)
+[プログラムへのリンク](https://makecode.microbit.org/v1/_LR2czf8pbgUK)
 
 ## 4. スピーカーで音を出す
 
@@ -47,7 +47,7 @@ micro:bitの基本的な使い方は、[ここ](https://microbit.org/ja/guide/qu
 ### プログラム
 <img width="491" src="./pics/4_Music_Player.png">
 
-[プログラムへのリンク](https://makecode.microbit.org/_bMxXEuefL56W)
+[プログラムへのリンク](https://makecode.microbit.org/v1/_bMxXEuefL56W)
 
 ## 5. ジェスチャーセンサーを使う
 
@@ -59,7 +59,7 @@ micro:bitの基本的な使い方は、[ここ](https://microbit.org/ja/guide/qu
 ### プログラム
 <img width="445" src="./pics/5_Gesture_Recognition.png">
 
-[プログラムへのリンク](https://makecode.microbit.org/_Xc3a290uECbv)
+[プログラムへのリンク](https://makecode.microbit.org/v1/_Xc3a290uECbv)
 
 ## 6. 超音波センサーで距離を測る
 
@@ -72,7 +72,7 @@ micro:bitの基本的な使い方は、[ここ](https://microbit.org/ja/guide/qu
 ### プログラム
 <img width="767" src="./pics/6_Ultrasonic.png">
 
-[プログラムへのリンク](https://makecode.microbit.org/_9hHLrz4RR7u6)
+[プログラムへのリンク](https://makecode.microbit.org/v1/_9hHLrz4RR7u6)
 
 
 ## 7. LEDテープ（NeoPixel）を使用する
@@ -86,7 +86,7 @@ micro:bitの基本的な使い方は、[ここ](https://microbit.org/ja/guide/qu
 ### プログラム
 <img width="772" src="./pics/9_Rainbow.png">
 
-[プログラムへのリンク](https://makecode.microbit.org/_3fV9c8KLM4bx)
+[プログラムへのリンク](https://makecode.microbit.org/v1/_3fV9c8KLM4bx)
 
 ## 8. LEDテープにアナログ値を表示する
 
@@ -99,7 +99,7 @@ micro:bitの基本的な使い方は、[ここ](https://microbit.org/ja/guide/qu
 ### プログラム
 <img width="773" src="./pics/10_Color_bar.png">
 
-[プログラムへのリンク](https://makecode.microbit.org/_FbvH1Uf7weXY)
+[プログラムへのリンク](https://makecode.microbit.org/v1/_FbvH1Uf7weXY)
 
 ## 9. センサーを組み合わせてプログラムを作る
 
